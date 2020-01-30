@@ -1,0 +1,4 @@
+export const SHOW_LOADING = "APP_SHOW_LOADING";
+export const HIDE_LOADING = "APP_HIDE_LOADING";
+export const SHOW_TOPTIPS = "APP_SHOW_TOPTIPS";
+export const HIDE_TOPTIPS = "APP_HIDE_TOPTIPS";
